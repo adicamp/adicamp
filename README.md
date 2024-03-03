@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hello! My name is Adi Septiandi. I am from Asia Cyber University taking BS Computer Science.
 <!--
 **adicamp/adicamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
